@@ -1,0 +1,19 @@
+.header_container{
+    flex : 0.15;
+    background-color: #ff5047;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_title{
+    margin: 2rem 0;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 3rem;
+    color: #fff
+}
+
+.header_title_container{
+}

@@ -1,0 +1,57 @@
+.bgred{
+    background-color: #ff5047;
+}
+
+.bgwhite{
+    background-color: white;
+}
+
+.bggrey{
+    background-color: rgba(204, 204, 204,0.7);
+}
+.boxmargin{
+    margin-left : 30px;
+    margin-right: 30px;
+}
+
+.botTopMar{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* flex */
+.flex_column{
+    display : flex;
+    flex-direction: column;
+}
+
+.flex_row{
+    display : flex;
+    flex-direction: row;
+}
+
+.centerFlex{
+    align-items: center;
+    justify-content: center;
+}
+
+/* border */
+.brd_box{
+    border-radius: 20px;
+    box-shadow: black;
+    elevation: 5deg;
+}
+
+/*size*/
+.fullh{
+    height: 100%;
+}
+
+.icon_app{
+    font-size: 18px;
+    color : #ff5047;
+}
+
+.trash_app{
+    font-size : 18px;
+}
